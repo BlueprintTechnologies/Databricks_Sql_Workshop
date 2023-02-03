@@ -45,7 +45,7 @@
 # MAGIC 
 # MAGIC |   |   |
 # MAGIC |---|---|
-# MAGIC |<b> Endpoint for queries </b> <br><br> &bullet; Serverless - Fully managed, elastic, best value <br><br> &bullet; Pro - Self managed, advanced SKU, compute in your account  | <img align="left" width=800  src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/cluster.png' />  |
+# MAGIC |<b> Query Endpoints </b> <br><br> &bullet; Serverless - Fully managed, elastic, best value <br><br> &bullet; Pro - Self managed, advanced SKU, compute in your account <br><br> &bullet; All SQL Functions (select, update, insert, drop, create) <br><br> &bullet; External access, JDBC, BI tools  | <img align="left" width=800  src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/cluster.png' />  |
 
 # COMMAND ----------
 
