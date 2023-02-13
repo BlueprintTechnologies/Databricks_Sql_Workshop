@@ -32,7 +32,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ### 1 - Datasets for Exploration (3)
+# MAGIC ### 1 - Datasets for Exploration
 # MAGIC 
 # MAGIC |   |   |
 # MAGIC |---|---|
@@ -74,7 +74,7 @@
 # MAGIC 
 # MAGIC |   |   |
 # MAGIC |---|---|
-# MAGIC |<img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/dash.jpg' />  | <b> Dashboards - Visuals with Filter and Cross Filter Capabilities </b> <br><br> &bullet; Quick Insights feature <br><br> &bullet; Pinning visuals <br><br> &bullet; Schedules | 
+# MAGIC |<img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/dash.jpg' />  | <b> Dashboards - Visuals with Filter and Cross Filter Capabilities for interaction. &emsp;&emsp;&emsp;&emsp;&emsp; </b> <br><br> &bullet; Quick Insights feature <br><br> &bullet; Pinning visuals <br><br> &bullet; Schedules   | 
 
 # COMMAND ----------
 
