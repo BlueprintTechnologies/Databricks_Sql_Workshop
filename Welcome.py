@@ -9,11 +9,12 @@
 # MAGIC 
 # MAGIC ## 1 Lakehouse Architecture & Familiarity with the Web UI (15 Minutes)
 # MAGIC 
-# MAGIC 
-# MAGIC * Reference Architecture <a href="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/refarch.png">here</a>
-# MAGIC * Blueprint's Focus on Cost Transparency | Lakehouse Monitor <a href="https://bpcs.com/databricks/data-optimization">here</a>
-# MAGIC * Explore the SQL Workspace UI
-# MAGIC * View the Data Explorer UI
+# MAGIC * Today: 
+# MAGIC   * Review a Lakehouse Architecture <a href="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/refarch.png">here</a>
+# MAGIC   * Explore the SQL Workspace UI
+# MAGIC   * View the Data Explorer UI
+# MAGIC * Note:
+# MAGIC   * Blueprint's Focus on Cost Transparency | Lakehouse Monitor <a href="https://bpcs.com/databricks/data-optimization">here</a>
 
 # COMMAND ----------
 
@@ -40,6 +41,7 @@
 
 # MAGIC %md
 # MAGIC ## 3 Hands-on Lab Objectives (90 Minutes)
+# MAGIC * Keep this page open in a tab
 
 # COMMAND ----------
 
