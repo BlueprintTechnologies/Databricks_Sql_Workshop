@@ -19,10 +19,22 @@
 
 # MAGIC %md
 # MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
 # MAGIC ## 2 SQL Data Warehouse Clustering (15 Minutes)
 # MAGIC * Clusters: Create & Understand the role of sizing. 
 # MAGIC * Discuss the new Serverless option for Cluster.
 # MAGIC * Permissions & Access
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
 
 # COMMAND ----------
 
@@ -42,6 +54,12 @@
 
 # MAGIC %md
 # MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
 # MAGIC ### 3 - Data Lineage
 # MAGIC 
 # MAGIC |   |   |
@@ -51,10 +69,22 @@
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC ### 4 - Data Exploration w/ SQL Queries
 # MAGIC |   |   |
 # MAGIC |---|---|
 # MAGIC |<img src="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/querysearch-Enhanced.jpg" /> | <b>Create Queries</b><br><br> &bullet; Navigate to <b>Queries</b> or <b>Search</b> in the top toolbar for queries by #tag or description. <br><br> &bullet; Or, create a few queries on your own! When you <b>Save</b>, they will be added to your <b>home workspace</b>. | 
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
 
 # COMMAND ----------
 
@@ -70,11 +100,23 @@
 
 # MAGIC %md
 # MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
 # MAGIC ### 6 - Dashboards
 # MAGIC 
 # MAGIC |   |   |
 # MAGIC |---|---|
-# MAGIC |<img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/dash.jpg' />  | <b> Dashboards - Visuals with Filter and Cross Filter Capabilities for interaction. &emsp;&emsp;&emsp;&emsp;&emsp; </b> <br><br> &bullet; Quick Insights feature <br><br> &bullet; Pinning visuals <br><br> &bullet; Schedules   | 
+# MAGIC |<img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/dash-Enhanced.jpg' />  | <b> Dashboards - Visuals with Filter and Cross Filter Capabilities for interaction. &emsp;&emsp;&emsp;&emsp;&emsp; </b> <br><br> &bullet; Quick Insights feature <br><br> &bullet; Pinning visuals <br><br> &bullet; Schedules   | 
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
 
 # COMMAND ----------
 
@@ -88,10 +130,22 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
+
+# COMMAND ----------
+
 # MAGIC %md 
 # MAGIC 
 # MAGIC ### 8 - Query Performance & History
 # MAGIC 
 # MAGIC |   |   |
 # MAGIC |---|---|
-# MAGIC |<img src="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/queryperf-Enhanced.jpg" alt="Picture" width="800" height="600" style="display: block; margin: 0 auto" />| <b> Explore Query Performance the Execution Plan </b> <br><br> &bullet; Cached queries <br><br> &bullet; Full execution plan for optimization <br><br> &bullet; Query history for analysis &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |  
+# MAGIC |<img src="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/queryperf-Enhanced.jpg"/>| <b> Explore Query Performance the Execution Plan </b> <br><br> &bullet; Cached queries <br><br> &bullet; Full execution plan for optimization <br><br> &bullet; Query history for analysis &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |  
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
+# MAGIC <img src='https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/bar.png' >
