@@ -10,9 +10,10 @@
 # MAGIC ## 1 Lakehouse Architecture & Familiarity with the Web UI (15 Minutes)
 # MAGIC 
 # MAGIC * Today: 
-# MAGIC   * Review a Lakehouse Architecture <a href="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/refarch.png">here</a>
+# MAGIC   * Review a Lakehouse Architecture <a href="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/refarch2.png">here</a>
 # MAGIC   * Explore the SQL Workspace UI
 # MAGIC   * View the Data Explorer UI
+# MAGIC   * Delta enabling
 # MAGIC * Note:
 # MAGIC   * Blueprint's Focus on Cost Transparency | Lakehouse Monitor <a href="https://bpcs.com/databricks/data-optimization">here</a>
 
@@ -29,6 +30,8 @@
 # MAGIC ## 2 SQL Data Warehouse Clustering (15 Minutes)
 # MAGIC * Clusters: Create & Understand the role of sizing. 
 # MAGIC * Discuss the new Serverless option for Cluster.
+# MAGIC   * Classic / Pro - Non_Serverless
+# MAGIC   * Serverless - Benefits
 # MAGIC * Permissions & Access
 
 # COMMAND ----------
@@ -96,7 +99,7 @@
 # MAGIC 
 # MAGIC |   |   | 
 # MAGIC |---|---|
-# MAGIC | <img src="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/viz-Enhanced.jpg" />  | <b> Databricks SQL - Turn queries into vizuals by opening the viz tab. </b> <br><br> &bullet; Visualize SQL Queries <br><br> &bullet; Pin visuals to dashboards <br><br> &bullet; Set update schedules | 
+# MAGIC | <img src="https://raw.githubusercontent.com/BlueprintTechnologies/Databricks_Sql_Workshop/main/img_artifacts/viz-Enhanced.jpg" />  | <b> Databricks SQL - Turn queries into visuals by opening the viz tab. </b> <br><br> &bullet; Visualize SQL Queries <br><br> &bullet; Pin visuals to dashboards <br><br> &bullet; Set update schedules | 
 
 # COMMAND ----------
 
